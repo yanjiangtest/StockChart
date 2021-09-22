@@ -6,7 +6,7 @@ package com.example.yanjiang.stockchart;
  * blog：http://blog.csdn.net/qqyanjiang
  */
 public class Test {
-
+//1 test
 
 
    /* private ArrayList<Integer> listA, listB;
